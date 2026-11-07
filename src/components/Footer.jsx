@@ -24,6 +24,10 @@ export default function Footer() {
               <h4 className="footer-heading">Contact</h4>
               <a href="mailto:contact@ruwad.io" className="footer-link">contact@ruwad.io</a>
             </div>
+            <div className="footer-col">
+              <h4 className="footer-heading">Legal</h4>
+              <a href="/mentions-legales/" className="footer-link">Mentions légales</a>
+            </div>
           </div>
           <div className="footer-bottom">
             <div className="footer-brand-wrap">
